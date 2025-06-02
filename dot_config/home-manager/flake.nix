@@ -1,5 +1,5 @@
 {
-  description = "Default Home Manager configuration for Sodalite"
+  description = "Default Home Manager configuration for Sodalite";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
